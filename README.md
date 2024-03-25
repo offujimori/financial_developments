@@ -1,2 +1,2 @@
 # financial_developments
-Developments for Finance
+Developments for Finance -- All API keys are deprecated. These codes are not used anymore.
